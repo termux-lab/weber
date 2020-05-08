@@ -1,8 +1,8 @@
 # weber
 Utility for scan sites
 # install
-cd weber
-unzip weber.zip
+cd weber <br>
+unzip weber.zip <br>
 cd weber
 python3 weber.py
 # starting
